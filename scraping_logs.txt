@@ -1,0 +1,142 @@
+[2025-07-24 20:34:12] Starting NCBS faculty email scraping...
+[2025-07-24 20:34:12] Starting to scrape faculty names from listing page...
+[2025-07-24 20:34:27] Error getting faculty names: HTTPSConnectionPool(host='www.ncbs.res.in', port=443): Read timed out. (read timeout=10)
+[2025-07-24 20:34:27] No faculty names found. Please check the faculty listing URL and HTML structure.
+[2025-07-24 20:36:30] Starting NCBS faculty email scraping...
+[2025-07-24 20:36:30] Testing basic connectivity...
+[2025-07-24 20:36:30] Attempting to connect to https://www.ncbs.res.in (attempt 1/3)
+[2025-07-24 20:36:32] ✓ Successfully connected to https://www.ncbs.res.in - Status: 200
+[2025-07-24 20:36:32] Preview: Home | NCBS                                          Search form  Search this site                                           Menu                      About Us                         Who...
+[2025-07-24 20:36:32] Attempting to connect to https://www.ncbs.res.in/faculty (attempt 1/3)
+[2025-07-24 20:36:35] ✓ Successfully connected to https://www.ncbs.res.in/faculty - Status: 200
+[2025-07-24 20:36:35] Preview: Faculty | NCBS                                      Search form  Search this site                                           Menu                      About Us                         Who We...
+[2025-07-24 20:36:35] Attempting to connect to https://www.ncbs.res.in/faculty/mini-contact (attempt 1/3)
+[2025-07-24 20:36:36] ✓ Successfully connected to https://www.ncbs.res.in/faculty/mini-contact - Status: 200
+[2025-07-24 20:36:36] Preview: Prof. R. Sowdhamini  - Contact | NCBS                                      Search form  Search this site                                           Menu                      About Us...
+[2025-07-24 20:36:36] Starting to scrape faculty names from listing page...
+[2025-07-24 20:36:36] Attempting to connect to https://www.ncbs.res.in/faculty (attempt 1/3)
+[2025-07-24 20:36:40] Found 40 faculty names
+[2025-07-24 20:36:40] Processing faculty 1/40: mini
+[2025-07-24 20:36:40] Attempting to connect to https://www.ncbs.res.in/faculty/mini-contact (attempt 1/3)
+[2025-07-24 20:36:45] Found email for mini: mini@ncbs.res.in
+[2025-07-24 20:36:47] Processing faculty 2/40: aswin
+[2025-07-24 20:36:47] Attempting to connect to https://www.ncbs.res.in/faculty/aswin-contact (attempt 1/3)
+[2025-07-24 20:36:50] Found email for aswin: aswin@ncbs.res.in
+[2025-07-24 20:36:52] Processing faculty 3/40: shivaprasad
+[2025-07-24 20:36:52] Attempting to connect to https://www.ncbs.res.in/faculty/shivaprasad-contact (attempt 1/3)
+[2025-07-24 20:36:55] Found email for shivaprasad: shivaprasad@ncbs.res.in
+[2025-07-24 20:36:57] Processing faculty 4/40: rana
+[2025-07-24 20:36:57] Attempting to connect to https://www.ncbs.res.in/faculty/rana-contact (attempt 1/3)
+[2025-07-24 20:37:02] Found email for rana: rana@ncbs.res.in
+[2025-07-24 20:37:04] Processing faculty 5/40: vkumar
+[2025-07-24 20:37:04] Attempting to connect to https://www.ncbs.res.in/faculty/vkumar-contact (attempt 1/3)
+[2025-07-24 20:37:10] Found email for vkumar: vkumar@ncbs.res.in
+[2025-07-24 20:37:12] Processing faculty 6/40: sabari
+[2025-07-24 20:37:12] Attempting to connect to https://www.ncbs.res.in/faculty/sabari-contact (attempt 1/3)
+[2025-07-24 20:37:13] Found email for sabari: sabari@ncbs.res.in
+[2025-07-24 20:37:15] Processing faculty 7/40: shruthi
+[2025-07-24 20:37:15] Attempting to connect to https://www.ncbs.res.in/faculty/shruthi-contact (attempt 1/3)
+[2025-07-24 20:37:17] Found email for shruthi: shruthiv@ncbs.res.in
+[2025-07-24 20:37:19] Processing faculty 8/40: tapa
+[2025-07-24 20:37:19] Attempting to connect to https://www.ncbs.res.in/faculty/tapa-contact (attempt 1/3)
+[2025-07-24 20:37:20] Found email for tapa: tapa@ncbs.res.in
+[2025-07-24 20:37:22] Processing faculty 9/40: shachi
+[2025-07-24 20:37:22] Attempting to connect to https://www.ncbs.res.in/faculty/shachi-contact (attempt 1/3)
+[2025-07-24 20:37:25] Found email for shachi: shachi@ncbs.res.in
+[2025-07-24 20:37:27] Processing faculty 10/40: bhalla
+[2025-07-24 20:37:27] Attempting to connect to https://www.ncbs.res.in/faculty/bhalla-contact (attempt 1/3)
+[2025-07-24 20:37:28] Found email for bhalla: bhalla@ncbs.res.in
+[2025-07-24 20:37:30] Processing faculty 11/40: sane
+[2025-07-24 20:37:30] Attempting to connect to https://www.ncbs.res.in/faculty/sane-contact (attempt 1/3)
+[2025-07-24 20:37:35] Found email for sane: sane@ncbs.res.in
+[2025-07-24 20:37:37] Processing faculty 12/40: raghu
+[2025-07-24 20:37:37] Attempting to connect to https://www.ncbs.res.in/faculty/raghu-contact (attempt 1/3)
+[2025-07-24 20:37:40] Found email for raghu: praghu@ncbs.res.in
+[2025-07-24 20:37:42] Processing faculty 13/40: vatsala
+[2025-07-24 20:37:42] Attempting to connect to https://www.ncbs.res.in/faculty/vatsala-contact (attempt 1/3)
+[2025-07-24 20:37:48] Found email for vatsala: vatsala@ncbs.res.in
+[2025-07-24 20:37:50] Processing faculty 14/40: hiyaa
+[2025-07-24 20:37:50] Attempting to connect to https://www.ncbs.res.in/faculty/hiyaa-contact (attempt 1/3)
+[2025-07-24 20:37:55] Found email for hiyaa: hiyaa@ncbs.res.in
+[2025-07-24 20:37:57] Processing faculty 15/40: rajladher
+[2025-07-24 20:37:57] Attempting to connect to https://www.ncbs.res.in/faculty/rajladher-contact (attempt 1/3)
+[2025-07-24 20:38:01] Found email for rajladher: rajladher@ncbs.res.in
+[2025-07-24 20:38:03] Processing faculty 16/40: abhishek
+[2025-07-24 20:38:03] Attempting to connect to https://www.ncbs.res.in/faculty/abhishek-contact (attempt 1/3)
+[2025-07-24 20:38:06] Found email for abhishek: abhishek@ncbs.res.in
+[2025-07-24 20:38:08] Processing faculty 17/40: sufyan
+[2025-07-24 20:38:08] Attempting to connect to https://www.ncbs.res.in/faculty/sufyan-contact (attempt 1/3)
+[2025-07-24 20:38:09] Found email for sufyan: sufyan@ncbs.res.in
+[2025-07-24 20:38:11] Processing faculty 18/40: abhilasha
+[2025-07-24 20:38:11] Attempting to connect to https://www.ncbs.res.in/faculty/abhilasha-contact (attempt 1/3)
+[2025-07-24 20:38:13] Found email for abhilasha: abhilasha@ncbs.res.in
+[2025-07-24 20:38:15] Processing faculty 19/40: mayor
+[2025-07-24 20:38:15] Attempting to connect to https://www.ncbs.res.in/faculty/mayor-contact (attempt 1/3)
+[2025-07-24 20:38:16] Found email for mayor: mayor@ncbs.res.in
+[2025-07-24 20:38:18] Processing faculty 20/40: madan
+[2025-07-24 20:38:18] Attempting to connect to https://www.ncbs.res.in/faculty/madan-contact (attempt 1/3)
+[2025-07-24 20:38:26] Found email for madan: madan@ncbs.res.in
+[2025-07-24 20:38:28] Processing faculty 21/40: varadha
+[2025-07-24 20:38:28] Attempting to connect to https://www.ncbs.res.in/faculty/varadha-contact (attempt 1/3)
+[2025-07-24 20:38:32] Found email for varadha: varadha@ncbs.res.in
+[2025-07-24 20:38:34] Processing faculty 22/40: dnotani
+[2025-07-24 20:38:34] Attempting to connect to https://www.ncbs.res.in/faculty/dnotani-contact (attempt 1/3)
+[2025-07-24 20:38:37] Found email for dnotani: dnotani@ncbs.res.in
+[2025-07-24 20:38:39] Processing faculty 23/40: anjana
+[2025-07-24 20:38:39] Attempting to connect to https://www.ncbs.res.in/faculty/anjana-contact (attempt 1/3)
+[2025-07-24 20:38:41] Found email for anjana: info@ncbs.res.in
+[2025-07-24 20:38:43] Processing faculty 24/40: shaon
+[2025-07-24 20:38:43] Attempting to connect to https://www.ncbs.res.in/faculty/shaon-contact (attempt 1/3)
+[2025-07-24 20:38:46] Found email for shaon: shaon@ncbs.res.in
+[2025-07-24 20:38:48] Processing faculty 25/40: swadhin
+[2025-07-24 20:38:48] Attempting to connect to https://www.ncbs.res.in/faculty/swadhin-contact (attempt 1/3)
+[2025-07-24 20:38:51] Found email for swadhin: swadhin@ncbs.res.in
+[2025-07-24 20:38:53] Processing faculty 26/40: aredkar
+[2025-07-24 20:38:53] Attempting to connect to https://www.ncbs.res.in/faculty/aredkar-contact (attempt 1/3)
+[2025-07-24 20:38:58] Found email for aredkar: aredkar@ncbs.res.in
+[2025-07-24 20:39:00] Processing faculty 27/40: pratik
+[2025-07-24 20:39:00] Attempting to connect to https://www.ncbs.res.in/faculty/pratik-contact (attempt 1/3)
+[2025-07-24 20:39:01] Found email for pratik: pratik@ncbs.res.in
+[2025-07-24 20:39:03] Processing faculty 28/40: priti
+[2025-07-24 20:39:03] Attempting to connect to https://www.ncbs.res.in/faculty/priti-contact (attempt 1/3)
+[2025-07-24 20:39:04] Found email for priti: pritiagarwal@ncbs.res.in
+[2025-07-24 20:39:06] Processing faculty 29/40: vijay
+[2025-07-24 20:39:06] Attempting to connect to https://www.ncbs.res.in/faculty/vijay-contact (attempt 1/3)
+[2025-07-24 20:39:07] Found email for vijay: vijay@ncbs.res.in
+[2025-07-24 20:39:09] Processing faculty 30/40: uma
+[2025-07-24 20:39:09] Attempting to connect to https://www.ncbs.res.in/faculty/uma-contact (attempt 1/3)
+[2025-07-24 20:39:14] Found email for uma: uramakri@ncbs.res.in
+[2025-07-24 20:39:16] Processing faculty 31/40: kunte
+[2025-07-24 20:39:16] Attempting to connect to https://www.ncbs.res.in/faculty/kunte-contact (attempt 1/3)
+[2025-07-24 20:39:20] Found email for kunte: krushnamegh@ncbs.res.in
+[2025-07-24 20:39:22] Processing faculty 32/40: soumya
+[2025-07-24 20:39:22] Attempting to connect to https://www.ncbs.res.in/faculty/soumya-contact (attempt 1/3)
+[2025-07-24 20:39:24] Found email for soumya: soumyashree@ncbs.res.in
+[2025-07-24 20:39:26] Processing faculty 33/40: lsshashidhara
+[2025-07-24 20:39:26] Attempting to connect to https://www.ncbs.res.in/faculty/lsshashidhara-contact (attempt 1/3)
+[2025-07-24 20:39:27] Found email for lsshashidhara: lsshashidhara@ncbs.res.in
+[2025-07-24 20:39:29] Processing faculty 34/40: thattai
+[2025-07-24 20:39:29] Attempting to connect to https://www.ncbs.res.in/faculty/thattai-contact (attempt 1/3)
+[2025-07-24 20:39:30] Found email for thattai: thattai@ncbs.res.in
+[2025-07-24 20:39:32] Processing faculty 35/40: sandeep
+[2025-07-24 20:39:32] Attempting to connect to https://www.ncbs.res.in/faculty/sandeep-contact (attempt 1/3)
+[2025-07-24 20:39:33] Found email for sandeep: sandeep@ncbs.res.in
+[2025-07-24 20:39:35] Processing faculty 36/40: shashi
+[2025-07-24 20:39:35] Attempting to connect to https://www.ncbs.res.in/faculty/shashi-contact (attempt 1/3)
+[2025-07-24 20:39:36] Found email for shashi: shashi@ncbs.res.in
+[2025-07-24 20:39:38] Processing faculty 37/40: archishman
+[2025-07-24 20:39:38] Attempting to connect to https://www.ncbs.res.in/faculty/archishman-contact (attempt 1/3)
+[2025-07-24 20:39:39] Found email for archishman: archishman@ncbs.res.in
+[2025-07-24 20:39:41] Processing faculty 38/40: mahesh
+[2025-07-24 20:39:41] Attempting to connect to https://www.ncbs.res.in/faculty/mahesh-contact (attempt 1/3)
+[2025-07-24 20:39:43] Found email for mahesh: mahesh@ncbs.res.in
+[2025-07-24 20:39:45] Processing faculty 39/40: deepa
+[2025-07-24 20:39:45] Attempting to connect to https://www.ncbs.res.in/faculty/deepa-contact (attempt 1/3)
+[2025-07-24 20:39:46] Found email for deepa: dagashe@ncbs.res.in
+[2025-07-24 20:39:48] Processing faculty 40/40: meghna
+[2025-07-24 20:39:48] Attempting to connect to https://www.ncbs.res.in/faculty/meghna-contact (attempt 1/3)
+[2025-07-24 20:39:49] Found email for meghna: meghnak@ncbs.res.in
+[2025-07-24 20:39:49] Scraping completed! Successfully scraped 40/40 faculty emails.
+[2025-07-24 20:39:49] Results saved to emails.csv
+[2025-07-24 20:39:49] URLs saved to urls.txt
+[2025-07-24 20:39:49] Logs saved to scraping_logs.txt
