@@ -163,3 +163,5 @@ cython_debug/
 emails.csv
 scraping_logs.txt
 urls.txt
+customer_emails.csv
+poster.png

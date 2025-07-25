@@ -1,0 +1,41 @@
+Dear Researcher,
+
+Greetings from Barcode Biotechnology!
+
+We are excited to announce our upcoming Hands-on Training in DNA Sequence Analysis (7th–11th August 2025) – a focused online program designed to help students and researchers master Sanger sequencing data analysis step-by-step.
+
+This industry-relevant training covers:
+✅ Chromatogram editing (Chromas Pro)
+✅ Sequence extraction & consensus building (BioEdit)
+✅ BLASTn-based species identification
+✅ Multiple sequence alignment (ClustalX)
+✅ Phylogenetic analysis & distance estimation (MEGA)
+
+By nominating your students, interns, or research scholars, you can:
+
+Enhance the analytical capabilities of your lab
+
+Ensure your team gains publishable-quality phylogenetic skills
+
+Save time on data troubleshooting and improve project outcomes
+
+Build a stronger research foundation for upcoming publications
+
+🎓 No prior bioinformatics expertise is required, making it suitable for UG, PG, PhD, Post-docs, and faculty.
+📜 Participants will receive a Certificate of Completion – a valuable addition to their research profile.
+
+The training fee is just ₹370, making it an affordable way to upgrade your team’s molecular analysis expertise.
+
+📌 Seats are limited & the deadline is 30th July!
+
+I would be delighted if you could encourage your students to enroll and strengthen the research skillset of your lab.
+
+🔗 https://forms.gle/qJPUXLTyCnTWxANw5 
+
+Looking forward to your participation in shaping the next generation of skilled researchers!
+
+Warm regards,
+Team Barcode Biotechnology
+🌐 www.barcodebiotechnology.com
+📧 support@barcodebiotechnology.com
+📱 +91 88259 23556
