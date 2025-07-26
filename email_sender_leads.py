@@ -15,9 +15,10 @@ with open('email.txt', 'r', encoding='utf-8') as file:
     content = file.read()
 
 # Read email list from CSV
-with open('emails.csv', newline='', encoding='utf-8') as csvfile:
+with open('customer_emails.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
-    emails = [row[2] for row in reader if len(row) >= 3]  # get 3rd column (email)
+    next(reader)
+    emails = [row[18] for row in reader if len(row) >= 19]  # get 3rd column (email)
 
 batch_size = 10
 total_emails = len(emails)
