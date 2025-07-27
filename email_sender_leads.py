@@ -15,12 +15,12 @@ with open('email.txt', 'r', encoding='utf-8') as file:
     content = file.read()
 
 # Read email list from CSV
-with open('customer_emails.csv', newline='', encoding='utf-8') as csvfile:
+with open('emails.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
-    next(reader)
-    emails = [row[18] for row in reader if len(row) >= 19]  # get 3rd column (email)
+    #next(reader)
+    emails = [row[2] for row in reader if len(row) >= 3]  
 
-batch_size = 10
+batch_size = 20
 total_emails = len(emails)
 
 for i, email in enumerate(emails):
@@ -28,7 +28,7 @@ for i, email in enumerate(emails):
         if 'server' in locals():
             try:
                 server.quit()
-                time.sleep(60)  # wait 1 minute between batches
+                time.sleep(20)  # wait 20s between batches
             except:
                 pass
         try:
@@ -58,7 +58,7 @@ for i, email in enumerate(emails):
             log.write(f"{email} — {e}\n")
         print(f"❌ Failed to send to {email} — {e}")
 
-    time.sleep(10)  # 10s delay between individual emails
+    time.sleep(5)  # 5s delay between individual emails
 
 try:
     server.quit()
