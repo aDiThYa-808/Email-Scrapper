@@ -11,7 +11,7 @@ email_password = os.environ.get('EMAIL_PASSWORD')
 sender_email = os.environ.get('SENDER_EMAIL')
 
 # Read the email body
-with open('email.txt', 'r', encoding='utf-8') as file:
+with open('faculty_email.txt', 'r', encoding='utf-8') as file:
     content = file.read()
 
 # Read email list from CSV
